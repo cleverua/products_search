@@ -2,7 +2,7 @@
 db/*.sqlite3
 log/*.log
 tmp/**/*
-config/database.yml
+config/mongoid.yml
 config/application_config.yml
 config/database.yml
 vendor/bundle_gems

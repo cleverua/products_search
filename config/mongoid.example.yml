@@ -1,0 +1,11 @@
+development:
+  host: ds029117.mongolab.com
+  port: 29117
+  database: products_search_development
+
+test:
+  host: ds029117.mongolab.com
+  port: 29117
+  database: products_search_test
+
+
